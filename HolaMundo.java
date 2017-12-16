@@ -10,5 +10,6 @@ public class HolaMundo
 	   public static void main (String args[])
 	   {
 	     JOptionPane.showMessageDialog(null,"¡Hola Mundo!");   
+		 JOptionPane.showMessageDialog(null,"Aqui estamos haciendo pruebas con Git."); 
 	   }
 }
